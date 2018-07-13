@@ -138,3 +138,9 @@ highest_freq_plot = subplot(2,1,2); plot(highest_freq_plot,time_array, ...
     y_channels_rectified(:,end),'c');
 title('Highest Frequency Channel Envelope');
 xlabel('Time (s)'); ylabel('Amplitude');
+
+
+
+
+%% PHASE 3
+
